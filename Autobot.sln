@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Autobot", "Autobot\Autobot.pyproj", "{44D1B7F6-F61D-4EFB-A4A8-CC7E95CF9AA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44D1B7F6-F61D-4EFB-A4A8-CC7E95CF9AA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44D1B7F6-F61D-4EFB-A4A8-CC7E95CF9AA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70940123-8237-41B9-AEDC-0BAB9D2AD548}
+	EndGlobalSection
+EndGlobal
